@@ -1,0 +1,5 @@
+{
+  "name": "Intelligent Vehicle Fault Prediction System",
+  "description": "A web application that uses AI to predict vehicle component failure or maintenance needs based on simulated telematics and sensor data. It features a live monitoring dashboard and an AI-powered prediction engine.",
+  "requestFramePermissions": []
+}
